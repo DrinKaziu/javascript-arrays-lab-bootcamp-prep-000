@@ -20,3 +20,4 @@ function destructivelyRemoveFirstKitten() {
   kittens.shift();
 }
 
+function 
